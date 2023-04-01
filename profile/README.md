@@ -12,6 +12,11 @@ Through Github, Armodia Systems is able to provide its developers with a streaml
 
 Overall, Armodia Systems is a forward-thinking tech company that is dedicated to delivering top-notch products to the Roblox community. With its commitment to innovation and collaboration, it is sure to continue pushing the boundaries of what is possible on the platform.
 
+## Extra Info
+
+Github organisation owned and managed by `ninjaninja140`.
+If you really read this file all the way to here... thanks!
+
 ```
 
               ~??7.                                                                                                                                   
